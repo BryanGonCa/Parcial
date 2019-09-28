@@ -1,6 +1,6 @@
 ﻿using System.Data.Entity;
 
-namespace Test
+namespace Test.Models
 {
     public class DataContext:DbContext
     {

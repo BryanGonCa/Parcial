@@ -18,7 +18,7 @@ namespace Test.Models
         [Required]
         public TypeContact Type { get; set; }
         [Required]
-        public string Test { get; set; }
+        public string Contact { get; set; }
 
     }
 }
